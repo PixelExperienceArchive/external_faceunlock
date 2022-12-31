@@ -12,7 +12,7 @@ cc_library {
     compile_multilib: "64",
     required: [
         "libFaceDetectCA",
-        "libmegface",
+        "libmegface_faceunlock",
         "libMegviiUnlock",
         "libMegviiUnlock-jni-1.2",
         "libarcsoft_faceid",
